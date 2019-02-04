@@ -1,3 +1,4 @@
 "hello_world"
 
-puts string
+puts "hello_world"
+
